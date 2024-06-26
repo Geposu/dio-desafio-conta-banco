@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+import java.text.DecimalFormat; //importa a classe DecimalFormat do pacote java.text
 import java.util.Scanner; //importa a classe Scanner do pacote java.util
 
 public class ContaTerminal {
